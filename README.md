@@ -1,10 +1,13 @@
 MobileDevice
 ===============
 
-MobileDevice-C#是Windows下iTunesMobileDevice的API接口库。</br>
-MobileDevice-C#最初参考Manzana的开源库建立而成，但由于Manzana已经停止更新多年，许多函数无法正常工作，所以对部分功能函数进行了修正。</br>
-MobileDevice-C#引用了CoreFoundation库：https://github.com/isnowrain/CoreFoundation</br>
-有时间的情况下逐步完善。<br>
+
+MobileDevice-C# is the API interface library of iTunesMobileDevice under Windows.</br>
+
+MobileDevice-C# was originally built with reference to Manzana's open source library, but because Manzana has stopped updating for many years, many functions cannot work properly, so some functions have been revised.</br>
+
+MobileDevice-C# references the CoreFoundation library: https://github.com/isnowrain/CoreFoundation</br>
+Gradually improve with time<br>
 
 @NivalXer </br>
 @WeiPhone技术组
